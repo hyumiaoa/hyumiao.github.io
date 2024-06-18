@@ -32,13 +32,13 @@ redirect_from:
 
 [8] Xiaodan Zhang, Song Q, Liu G. Multimodal Image Aesthetic Prediction with Missing Modality. Mathematics,10(13):2312, 2022.
 
-[9].Xiaodan Zhang, Xinbo Gao, Wen Lu, Lihuo He. Unified Image Aesthetic Prediction via Scanpath-Guided Feature Aggregation Network. IJCAI Workshop on Human Brain Artificial Intelligence, 2020.
+[9] Xiaodan Zhang, Xinbo Gao, Wen Lu, Lihuo He. Unified Image Aesthetic Prediction via Scanpath-Guided Feature Aggregation Network. IJCAI Workshop on Human Brain Artificial Intelligence, 2020.
 
-[10]. Wei Zhou, Xiaodan Zhang, Xingxing Hao, Dekui Wang. Multi Point-Voxel Convolution (MPVConv) for deep learning on point clouds. vol. 112, pp:72-80,2023.
+[10] Wei Zhou, Xiaodan Zhang, Xingxing Hao, Dekui Wang. Multi Point-Voxel Convolution (MPVConv) for deep learning on point clouds. vol. 112, pp:72-80,2023.
 
-[11].Dekui Wang, Jun Feng, Wei Zhou, Xingxing Hao and Xiaodan Zhang FCRoute: A Fast FPGA Connection Router using Soft Routing-Space Pruning Algorithm. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. vol. 42, no. 3, pp.887-889, 2023.
+[11] Dekui Wang, Jun Feng, Wei Zhou, Xingxing Hao and Xiaodan Zhang FCRoute: A Fast FPGA Connection Router using Soft Routing-Space Pruning Algorithm. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. vol. 42, no. 3, pp.887-889, 2023.
 
-[12]. Dekui Wang,Jun Feng, Ke Liu, Wei Zhou, Xingxing Hao and Xiaodan Zhang A Fast FPGA Connection Router Using Pre-routing Based Parallel Local Routing Algorithm. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. doi:10.1109/TCAD.2023.3274950, 2023.
+[12] Dekui Wang,Jun Feng, Ke Liu, Wei Zhou, Xingxing Hao and Xiaodan Zhang A Fast FPGA Connection Router Using Pre-routing Based Parallel Local Routing Algorithm. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. doi:10.1109/TCAD.2023.3274950, 2023.
 
 
 科研项目：
